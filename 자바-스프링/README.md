@@ -23,3 +23,7 @@ equals와 hashcode에 대해
 JPA와 MyBatis의 차이
 
 jpa N+1을 겪은 적이 있는지
+
+(JPA N+1) deleteAll을 @Query로 해결한 이유
+    - (in 절과 관련한 답변) in절에서 문제가 발생하지 않을까요?
+    - (못 알아들어서) Oracle은 in절에 1000개까지, MySQL에서는 너무 많으면 index 안타서 성능이 느려지는데 어떻게 대응할 수 있을까요
