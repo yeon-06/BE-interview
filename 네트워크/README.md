@@ -4,3 +4,11 @@
     - HTTP와 HTTPS 차이점
     - HTTP를 사용하면 생기는 보안 문제
 - REST API란?
+- http란
+- http 메서드 종류
+- delete 메서드의 보안 이슈
+- http 상태 코드 종류
+- http 1.0 vs http2.0
+- restful api란?
+- http 메서드 사용 이유
+- tcp vs udp

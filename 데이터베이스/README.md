@@ -1,3 +1,6 @@
 - 트랜잭션이란?
 - DB Isolation level에 대해
 - DB index 구동 과정
+- ddl vs dml vs dcl
+- db 조회 성능 개선
+- DB Replication
