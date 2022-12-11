@@ -4,3 +4,9 @@
 - ddl vs dml vs dcl
 - db 조회 성능 개선
 - DB Replication
+- Redis 사용 경험
+- 정규화 1차, 2차, 3차 차이
+- 클러스터링 인덱스 vs 넌클러스터링 인덱스
+- DB 부하가 많아지는 경우 해결 방법
+    - (Replication 도입한다고 대답) insert가 많은 DB라면?
+        - (DB 크기 늘리거나 나눈다고 대답) 캐시의 개념을 아는가?

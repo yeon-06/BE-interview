@@ -1,6 +1,6 @@
 - POST와 GET의 차이
-- 웹 브라우저가 동작하는 과정
-- HTTPS가 동작하는 과정
+- 웹 브라우저가 동작하는 과정 *
+- HTTPS가 동작하는 과정 *
     - HTTP와 HTTPS 차이점
     - HTTP를 사용하면 생기는 보안 문제
 - REST API란?
@@ -12,3 +12,7 @@
 - restful api란?
 - http 메서드 사용 이유
 - tcp vs udp
+- 로드밸런싱 vs 클러스터링
+- AWS 어떤 기능들 사용해보았는지
+- CORS란
+    - 헤더 종류
