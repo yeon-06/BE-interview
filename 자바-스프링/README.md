@@ -21,6 +21,11 @@
     - 모든걸 다 지키며 개발하는지
 - ArrayList vs LinkedList
     - 데이터를 중간에 추가하는 경우 어떤 것이 더 빠른가
+- GC 동작 과정
+  - old 영역의 객체는 계속 보관되는가
+  - young 영역에서의 gc와 old 영역의 gc 차이
+  - old 영역에서 계속 지워지지 않는 객체가 있다면 어떻게 되는가
+  - gc 관련 옵션들
 
 <br/>
 
@@ -31,16 +36,21 @@
     - filter와 interceptor의 차이 *
 - AOP란?
 - Spring Framework와 Spring Boot 차이
-- @Transactional 동작 원리
+- 스프링 트랜잭션 전파 레벨
+- @Transactional 동작 원리 *
     - 롤백이 되는 예외와 롤백이 안되는 예외
     - 어떤 계기로 딥다이브 하게 되었는지
 - DI/IoC란?
 - 의존성 주입 방법 3가지
-- Spring Di/IoC
+- Spring DI/IoC *
+    - 어떨 때 사용하나요
+    - DI를 사용하는 방법
+        - (생성자,세터,필드 주입 답변) 본인은 어떤걸 사용하시는 편인가요
 - @Transactional 사용할때 안할때 차이
 - bean 등록하는 방법
 - filter vs interceptor
     - 프로젝트에서 사용 경험
+- 스프링에서 중요한 개념
 
 <br/>
 
